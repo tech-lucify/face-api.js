@@ -2,6 +2,6 @@
   "author": "justadudewhohacks",
   "license": "MIT",
   "dependencies": {
-    "face-api.js": "../../"
+    "face-api.js": "^0.22.2"
   }
 }
